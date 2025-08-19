@@ -50,7 +50,3 @@ To see a list of all the accounts you have stored, use the `list` action:
 ```bash
 python password_manager.py list
 ```
-
-## Security Note
-
-This password manager uses a very basic substitution cipher for educational purposes. For real-world use, you should use a more robust encryption library like `cryptography`.
